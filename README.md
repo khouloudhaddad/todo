@@ -34,4 +34,4 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * Installation de Node Js
 * Installation d'Angular CLI
 * Créer l'application ToDo App: 
-  ** > ng new todo-app
+  * > ng new todo-app
