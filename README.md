@@ -33,5 +33,15 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 * SPA: Single Page Application
 * Installation de Node Js
 * Installation d'Angular CLI
+* Installation de VSCode
 * Créer l'application ToDo App: 
   * ng new todo-app
+  * Expliquer l'arborescence des dossiers/fichiers créés: 
+  <ul>
+  <li><b>tsconfig.json:</b> Fichier de configuration <u>globale</u> de Typescript</li>
+  <li><b>tsconfig.app.json:</b> Fichier de configuration <u>locale</u> de Typescript</li>
+  <li><b>*.spec.*:</b> test case file</li>
+  <li>Editer le port par: `ng serve --port=POST_NUMBER`</li>
+  <li><b>styles.scss:</b> Fichier de style <u>global</u> pour l'application</li>
+  <li><b>polyfills.ts: </b>few lines of code which make your application compatible for different browsers.</li>
+  </ul>
